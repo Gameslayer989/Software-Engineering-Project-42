@@ -1,0 +1,21 @@
+/*Software Assignment, part 5
+* Written by Anna Ruth
+* First written 28/10/2013
+* Last updated 28/10/2013
+*/
+
+import sheffield.*;
+public class LecturerCalculation {
+	public static void main(String[] args) {
+		//
+		int[][] testStudent = {{12345,23456,34567/*Ucard*/},{1,2,3/*Year*/},{/*Module1*/},{/*Module6*/}};
+		int[][] testLecturer = {{54321,65432,76543/*Ucard*/},{/*Module1*/},{/*Module2*/}};
+		for (int r=0; r<test.length; r++) {
+			for (int c=0; c<test[r].length; c++) {
+				System.out.print(test[r][c] + " ");} 
+			System.out.println();}
+			
+		
+	}
+}
+
